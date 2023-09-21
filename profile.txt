@@ -1,0 +1,31 @@
+alias kga='kubectl get all'
+
+alias kgas='kubectl get all --show-labels'
+
+alias kgns='kubectl get ns'
+
+alias kdp='kubectl describe pod'
+
+alias kdn='kubectl describe no'
+
+alias kds='kubectl describe svc'
+
+alias kaf='kubectl apply -f'
+
+alias kdf='kubectl delete -f'
+
+alias kexec='kubectl exec --stdin --tty'
+
+alias kdelp='kubectl delete pod'
+
+alias kdels='kubectl delete svc'
+
+alias kdeld='kubectl delete deploy'
+
+export dy="--dry-run=client -o yaml"
+
+export now="--force --grace-period 0"
+
+alias run
+
+export PATH="$HOME/.tfenv/bin:$PATH"
