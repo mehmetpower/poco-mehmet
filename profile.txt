@@ -31,3 +31,5 @@ alias run
 alias hello="echo "hello""
 
 export PATH="$HOME/.tfenv/bin:$PATH"
+
+
