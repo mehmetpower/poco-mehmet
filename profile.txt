@@ -28,4 +28,6 @@ export now="--force --grace-period 0"
 
 alias run
 
+alias hello="echo "hello""
+
 export PATH="$HOME/.tfenv/bin:$PATH"
