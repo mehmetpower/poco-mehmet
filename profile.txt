@@ -33,9 +33,5 @@ alias hello="echo "hello""
 export PATH="$HOME/.tfenv/bin:$PATH"
 
 
-<<<<<<< HEAD
 These are the exact codes that should be her
 
-=======
-These are the exact codes that should be here
->>>>>>> feature
